@@ -1,10 +1,10 @@
 export const config = {
-    apiKey: "AIzaSyB8IXkB-kGzYZYAlwauPbvl6ZbczJx36Vg",
-    authDomain: "my-app-8c4ab.firebaseapp.com",
-    databaseURL: "https://my-app-8c4ab.firebaseio.com",
-    projectId: "my-app-8c4ab",
-    storageBucket: "my-app-8c4ab.appspot.com",
-    messagingSenderId: "20489091490"
+  apiKey: "AIzaSyB8IXkB-kGzYZYAlwauPbvl6ZbczJx36Vg",
+  authDomain: "my-app-8c4ab.firebaseapp.com",
+  databaseURL: "https://my-app-8c4ab.firebaseio.com",
+  projectId: "my-app-8c4ab",
+  storageBucket: "my-app-8c4ab.appspot.com",
+  messagingSenderId: "20489091490"
 };
 
 
